@@ -1,0 +1,8 @@
+.tela{
+    height: 300px;
+    width: 600px;
+    border: solid gray;
+    text-align: center;
+    background-image: url("../_imagens/banner-esporte.png");
+}
+
